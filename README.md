@@ -1,2 +1,2 @@
-# curso-web-scraping-python
-Curso de Web scraping: Extracción de datos en la Web
+# Curso de Web scraping: Extracción de datos en la Web
+Apuntes del curso `Curso de Web scraping: Extracción de datos en la Web` realizado con Python
